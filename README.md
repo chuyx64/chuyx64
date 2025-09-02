@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chuyx64
 - 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning mobile develoment
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning IoT
 - 📫 How to reach me: chuyx64@outlook.com
 
 <!---
